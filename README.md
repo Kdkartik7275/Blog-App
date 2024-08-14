@@ -9,16 +9,22 @@ Xcode (Optional): Required for iOS development on macOS
 
 2. Clone the Repository
 
-3. Navigate to the Project Directory
+   https://github.com/Kdkartik7275/Blog-App
+
+4. Navigate to the Project Directory
+   
    cd Blog-App
 
-4. Install Dependencies
+6. Install Dependencies
+   
   flutter pub get
 
-5. Run the Application
+8. Run the Application
+   
    flutter run
 
-6.  Build the app
+10.  Build the app
+    
     for android:- flutter build apk
 
     for ios:- flutter build ios
